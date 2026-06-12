@@ -1,0 +1,6 @@
+{
+  "name": "DocFusion",
+  "description": "Scan • Convert • Manage. DocFusion is an all-in-one document management, PDF utility, smart scanner, OCR, photo editor, notes, and productivity application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
